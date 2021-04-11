@@ -4,3 +4,4 @@ echo " "
 echo "Enough of talking just write what you want to make it ascii art"
 read INPUT
 curl "artii.herokuapp.com/make?text=$INPUT"
+echo " "
